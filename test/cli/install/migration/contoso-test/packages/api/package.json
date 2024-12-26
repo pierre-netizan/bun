@@ -13,12 +13,12 @@
     "lint:fix": "npm run lint -- --fix"
   },
   "dependencies": {
-    "@azure/identity": "^2.1.0",
+    "@azure/identity": "^4.5.0",
     "@azure/keyvault-secrets": "^4.5.1",
     "applicationinsights": "^2.3.4",
     "dotenv": "^16.0.1",
     "mongodb": "^4.7.0",
-    "mongoose": "^6.5.3",
+    "mongoose": "^6.13.5",
     "pg": "^8.8.0",
     "swagger-ui-dist": "^4.14.0",
     "winston": "^3.8.1",
